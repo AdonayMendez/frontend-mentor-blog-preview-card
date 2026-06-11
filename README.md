@@ -39,7 +39,7 @@ Users should be able to:
 
 ### What I learned
 
-While building this project I learned that in order to use the :focus pseudo-class, the elment must be wrap in a link.
+While building this project I learned that in order to use the :focus pseudo-class, the elment must be wrapped in a link.
 
 ```html
   <h2 class="blog-card-title"><a href="#">HTML & CSS foundations</a></h2>
